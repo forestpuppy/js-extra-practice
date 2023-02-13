@@ -7,5 +7,9 @@ let num3 = 779;
 
 // YOUR CODE BELOW
 
+myFirstSum = (num1 + num2 + num3)
+console.log (myFirstSum)
+
 // Do not change the code below
-module.exports = { myFirstSum };
+module.exports = { myFirstSum }
+

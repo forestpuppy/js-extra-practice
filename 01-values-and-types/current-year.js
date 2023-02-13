@@ -8,3 +8,9 @@ EX: 2000 + 18 - 2 * 1;
 */
 
 // YOUR CODE BELOW
+
+let thousand = 2000
+let smallNum = 5
+let bigNum = 28
+
+console.log (thousand + bigNum - smallNum)

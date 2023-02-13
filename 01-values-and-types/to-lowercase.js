@@ -6,3 +6,7 @@ EX: "FULLSTACK ACADEMY".toLowerCase() OUTPUT: "fullstack academy";
 */
 
 // YOUR CODE BELOW
+
+let fullStack = "FULLSTACK ACADAMEY"
+
+console.log(fullStack.toLowerCase()) 
